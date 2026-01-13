@@ -5,6 +5,13 @@
 ### Featured Projects
 
 • Calender date validator 
+  Takes user input, and tells you if it is a valid date, it also includes the ability to calculate leap years
+
+• Expenses pie chart
+  Takes your monthly bills, and puts them into a pie chart, and also provides percentages so you can see how much your spending on what
+  in a monthly basis
+
+
 
 
 
